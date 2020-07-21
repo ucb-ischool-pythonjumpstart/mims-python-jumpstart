@@ -5,7 +5,7 @@ This readme is just a stub for now, because you all are going to help build it o
 
 # UCB DataHub 
 
-We're using the DataHub as our virtual, cloud computing environment. Every day, when we start class - we can click [this link](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd-alex-hughes%2Fpython_jumpstart_public&urlpath=tree%2Fpython_jumpstart_public%2F) which will copy over today's lesson into the DataHub.
+We're using the DataHub as our virtual, cloud computing environment. Every day, when we start class - we can click [this link](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fucb-ischool-pythonjumpstart%2Fmims-python-jumpstart&urlpath=tree%2Fmims-python-jumpstart%2F&branch=master) which will copy over today's lesson into the DataHub.
 
 Once we've copied the files, if we want to return to our saved work we can go directly to the DataHub: ( [https://datahub.berkeley.edu](https://datahub.berkeley.edu/) ) and navigate to mims-python-jumpstart folder.
 

@@ -18,9 +18,9 @@ Once we've copied the files, if we want to return to our saved work we can go di
 | Wed   | 7/22/20 | 03   | Flow & Control                    |
 | Thurs | 7/23/20 | 04   | Control cont., Lists              |
 | Mon   | 7/27/20 | 05   | Functions, Dictionaries, indexing |
-| Tues  | 7/28/20 | 06   | ??                                |
-| Wed   | 7/29/20 | X    | Command Line / Vim                |
-| Thurs | 7/30/20 | X    | Git                               |
+| Tues  | 7/28/20 | 06   | Comprehensions, common errors + ? |
+| Wed   | 7/29/20 | 07   | Command Line / Vim                |
+| Thurs | 7/30/20 | 08   | Git                               |
 |       | ???     | X    | Numpy, Pandas                         
 
 # Materials

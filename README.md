@@ -15,9 +15,9 @@ Once we've copied the files, if we want to return to our saved work we can go di
 |-------|---------|------|-----------------------------------|
 | Mon   | 7/20/20 | 01   | Intro & Course Outline            |
 | Tues  | 7/21/20 | 02   | Variables, Strings, Objects       |
-| Wed   | 7/22/20 | 03   | Flow & Control                    |
-| Thurs | 7/23/20 | 04   | Control cont., Lists              |
-| Mon   | 7/27/20 | 05   | Functions, Dictionaries, indexing |
+| Wed   | 7/22/20 | 03   | Conditionals and Functions        |
+| Thurs | 7/23/20 | 04   | Conditionals cont, looping        |
+| Mon   | 7/27/20 | 05   | Dictionaries, Tuples, indexing    |
 | Tues  | 7/28/20 | 06   | Comprehensions, common errors + ? |
 | Wed   | 7/29/20 | 07   | Command Line / Vim                |
 | Thurs | 7/30/20 | 08   | Git                               |

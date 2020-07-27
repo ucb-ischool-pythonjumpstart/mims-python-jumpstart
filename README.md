@@ -11,16 +11,17 @@ Once we've copied the files, if we want to return to our saved work we can go di
 
 # Outline
 
-|       | Date    | Unit | Topic                             |
-|-------|---------|------|-----------------------------------|
-| Mon   | 7/20/20 | 01   | Intro & Course Outline            |
-| Tues  | 7/21/20 | 02   | Variables, Strings, Objects       |
-| Wed   | 7/22/20 | 03   | Conditionals and Functions        |
-| Thurs | 7/23/20 | 04   | Conditionals cont, looping        |
-| Mon   | 7/27/20 | 05   | Dictionaries, Tuples, indexing    |
-| Tues  | 7/28/20 | 06   | Comprehensions, common errors + ? |
-| Wed   | 7/29/20 | 07   | Command Line / Vim                |
-| Thurs | 7/30/20 | 08   | Git                               |
+|       | Date    | Unit | Topic                              |
+|-------|---------|------|------------------------------------|
+| Mon   | 7/20/20 | 01   | Intro & Course Outline             |
+| Tues  | 7/21/20 | 02   | Variables, Strings, Objects        |
+| Wed   | 7/22/20 | 03   | Conditionals and Functions         |
+| Thurs | 7/23/20 | 04   | Conditionals & Functions cont.     |
+| Mon   | 7/27/20 | 05   | Looping (for, while, range)        |
+| Tues  | 7/28/20 | 06   | Dictionaries, Tuples, indexing     |
+| Wed   | 7/29/20 | 07   | Comprehensions, common errors, docs|
+| Thurs | 7/30/20 | 08   | Command Line / Vim                 |
+| Fri   | 7/31/20 | 08   | Git                                |
 |       | ???     | X    | Numpy, Pandas                         
 
 # Materials
